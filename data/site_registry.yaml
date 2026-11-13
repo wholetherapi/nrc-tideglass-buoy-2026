@@ -1,0 +1,13 @@
+plots:
+  - id: SM-N01
+    marsh: North Creek
+    elevation_m: 1.42
+  - id: SM-N04
+    marsh: North Creek
+    elevation_m: 1.18
+  - id: SM-S02
+    marsh: South Reach
+    elevation_m: 0.96
+  - id: SM-S05
+    marsh: South Reach
+    elevation_m: 1.31
